@@ -10,16 +10,16 @@ I started programming in 2010 by **developing video games in Unity**; I built up
 # Technologies
 
 <div class=techs>
-<img src="src/blender.svg" alt="Blender">
-<img src="src/godotengine.svg" alt="Godot">
-<img src="src/unity.svg" alt="Unity">
-<img src="src/python.svg" alt="Python">
-<img src="src/django.svg" alt="Django">
-<img src="src/flask.svg" alt="Flask">
-<img src="src/html5.svg" alt="HTML5">
-<img src="src/css3.svg" alt="CSS3">
-<img src="src/javascript.svg" alt="Javascript">
-<img src="src/git.svg" alt="Git">
+<img style="width:32px;"src="src/blender.svg" alt="Blender">
+<img style="width:32px;"src="src/godotengine.svg" alt="Godot">
+<img style="width:32px;"src="src/unity.svg" alt="Unity">
+<img style="width:32px;"src="src/python.svg" alt="Python">
+<img style="width:32px;"src="src/django.svg" alt="Django">
+<img style="width:32px;"src="src/flask.svg" alt="Flask">
+<img style="width:32px;"src="src/html5.svg" alt="HTML5">
+<img style="width:32px;"src="src/css3.svg" alt="CSS3">
+<img style="width:32px;"src="src/javascript.svg" alt="Javascript">
+<img style="width:32px;"src="src/git.svg" alt="Git">
 
 </div>
 
