@@ -27,6 +27,7 @@ I started programming in 2010 by **developing video games in Unity**; I built up
 <img style="width:32px;"src="src/javascript.svg" alt="Javascript">
 <img style="width:32px;"src="src/git.svg" alt="Git">
 <img style="width:32px;"src="src/linux.svg" alt="Linux">
+<img style="width:32px;"src="src/postgresql.svg" alt="PostgreSQL">
 
 </div>
 
