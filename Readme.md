@@ -19,4 +19,4 @@ I started programming in 2010 by developing video games in Unity; I built up a l
 # Github Analitics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkcom-Dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkcom-Dev&layout=compact&theme=transparent)
