@@ -4,7 +4,7 @@
 
 # Sobre mi
 
-Empecé a programar en el año 2010 desarrollando videojuegos en Unity, el cementerio de proyectos es grande y lo hice hasta que la potencia de mi portatil y mis ojos me lo permitieron. Empecé a programar en Python en 2018 y desde entonces es mi lenguaje principal, he desarrollado pequeñas herramientas que me resuelven la vida en mi dia a dia, Fuí bloguero por muychos años hasta que la web fué hackeada, espero algun dia poder revivir el blog. Actualmente estoy preparandome para ser Backend Developer.
+Comencé a programar en 2010 desarrollando videojuegos en Unity; acumulé un gran "cementerio" de proyectos hasta que la potencia de mi portátil y mis ojos me lo permitieron. En 2018, empecé a programar en Python, que desde entonces se convirtió en mi lenguaje principal. He creado pequeñas herramientas que me facilitan la vida en el día a día. Durante muchos años, fui bloguero, hasta que mi sitio web fue hackeado; espero algún día poder revivirlo. Actualmente, me estoy preparando para convertirme en Backend Developer.
 
 # Tecnologias
 
@@ -15,3 +15,7 @@ Empecé a programar en el año 2010 desarrollando videojuegos en Unity, el cemen
 - TKinter
 - PostgreSQL
 - Python
+
+# Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev)](https://github.com/anuraghazra/github-readme-stats)
