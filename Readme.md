@@ -1,7 +1,7 @@
 # Hi 👋, i am Darkcom.
 ## Backend Developer Python | Game Developer Hobbist
 
-<img src="src/banner-leaderboard.webp">
+<img src="src/banner-leaderboard.webp" alt="Darkcom-dev Banner">
 
 # About me
 
