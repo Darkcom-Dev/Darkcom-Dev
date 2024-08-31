@@ -1,20 +1,22 @@
-# Hola, Darkcom.
+# Hi, i am Darkcom.
 
 [imágen]
 
-# Sobre mi
+# About me
 
-Comencé a programar en 2010 desarrollando videojuegos en Unity; acumulé un gran "cementerio" de proyectos hasta que la potencia de mi portátil y mis ojos me lo permitieron. En 2018, empecé a programar en Python, que desde entonces se convirtió en mi lenguaje principal. He creado pequeñas herramientas que me facilitan la vida en el día a día. Durante muchos años, fui bloguero, hasta que mi sitio web fue hackeado; espero algún día poder revivirlo. Actualmente, me estoy preparando para convertirme en Backend Developer.
+I started programming in 2010 by developing video games in Unity; I built up a large "graveyard" of projects until my laptop's power and my eyesight could no longer keep up. In 2018, I began programming in Python, which has since become my main language. I've developed small tools that make my daily life easier. For many years, I was a blogger until my website was hacked; I hope to revive it someday. Currently, I am preparing to become a Backend Developer.
 
-# Tecnologias
+# Technologies
 
-- Godot 4
-- Blender
+- Python
 - Django
 - Flask
 - TKinter
 - PostgreSQL
-- Python
+- Godot 4
+- Blender
 
+# Github Analitics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkcom-Dev)
