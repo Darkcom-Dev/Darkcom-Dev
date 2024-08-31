@@ -16,6 +16,5 @@ Comencé a programar en 2010 desarrollando videojuegos en Unity; acumulé un gra
 - PostgreSQL
 - Python
 
-# Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkcom-Dev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
