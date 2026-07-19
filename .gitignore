@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Dependencias (si en futuro hay)
+node_modules/
+vendor/
