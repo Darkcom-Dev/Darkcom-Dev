@@ -10,7 +10,7 @@ I'm Darkcom — a Game Dev Tools Maker & 3D Modeler (Anime/Manga 🎌, animation
 <div class=social style="display:flex;align-items:center;">
 <a href="https://linkedin.com/in/braulio-madrid-19b372185/"><img style="width:32px;"src="src/linkedin.svg" alt="LinkedIn"></a>
 <a href="https://github.com/darkcomdev"><img style="width:32px;" src="src/github.svg" alt="Github"></a>
-<a href="https://x.com/Darkcom_Dev"><img style="width:32px;" src="src/x.svg" alt="X"></a>
+<a href="https://x.com/Darkcom_"><img style="width:32px;" src="src/x.svg" alt="X"></a>
 <a href="https://gamedevmarket.net/member/darkcomdev"><img style="width:32px;" src="src/game-dev-market.svg" alt="GameDev Market"></a>
 <a href="https://cubebrush.co/darkcomdev"><img style="width:32px;" src="src/cubebrush.svg" alt="Cubebrush"></a>
 <a href="https://darkcomdev.itch.io"><img style="width:32px;" src="src/itchio-textless-white.svg" alt="Itch.io"></a>
